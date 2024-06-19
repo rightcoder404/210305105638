@@ -1,0 +1,1 @@
+The project is working fine both backend and frontend are implemented.![Screenshot 2024-06-19 132022](https://github.com/rightcoder404/210305105638/assets/119412386/7befe71e-99bf-4def-bd3a-cb702c1a6c67)
